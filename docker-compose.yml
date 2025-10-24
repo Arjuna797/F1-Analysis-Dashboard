@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  streamlit-app:
+    build: .
+    container_name: f1_race_analysis_app
+    ports:
+      - "8501:8501"      # host:container mapping
+    volumes:
+      - .:/app           # optional: live code editing
+    restart: unless-stopped

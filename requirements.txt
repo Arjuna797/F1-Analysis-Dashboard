@@ -1,0 +1,9 @@
+pandas
+fastf1
+openmeteo-requests
+requests-cache
+retry-requests
+streamlit
+scikit-learn
+matplotlib
+seaborn
