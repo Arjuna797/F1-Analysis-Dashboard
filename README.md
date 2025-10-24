@@ -16,9 +16,10 @@ Arjuna
 🎓 Masters Student | Aspiring  Data Analytics Professional
 💼 Passionate about combining data, machine learning, and F1 analytics
 #Run On Ubuntu 
-```bash docker-compose up -d
+docker-compose up -d
 
 ## 🚀 Run Locally on windows with Docker
 
 ```bash
 docker compose up -d
+
