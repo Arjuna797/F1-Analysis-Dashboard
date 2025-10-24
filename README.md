@@ -15,11 +15,16 @@ An interactive Streamlit project  analyzing Formula 1 race data using machine le
 Arjuna
 🎓 Masters Student | Aspiring  Data Analytics Professional
 💼 Passionate about combining data, machine learning, and F1 analytics
-#Run On Ubuntu 
-docker-compose up -d
 
-## 🚀 Run Locally on windows with Docker
+## 🚀 Run Locally with Docker
+
+Use the appropriate command based on your operating system:
 
 ```bash
+# On Ubuntu / Linux
+docker-compose up -d
+
+# On Windows
 docker compose up -d
+
 
